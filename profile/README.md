@@ -7,7 +7,7 @@
 - Frontend: https://github.com/devops-project-app/devops-project-app-frontend
 - API: https://github.com/devops-project-app/devops-project-app-api
 ### 🏗️ Infrastructure
-- Cloud: **GCP**
+- Cloud: **AWS**
 - Terraform code: https://github.com/devops-project-app/devops-project-app-infrastructure
 ### ⚙️ CICD
 - Jenkins install: https://github.com/devops-project-app/devops-project-app-jenkins
