@@ -1,5 +1,5 @@
 ## Hi there 👋
-### 🙋‍♀️ This organization will help you to have better understanding about DevOps
+### 🙋‍♀️ Welcome to my project! Im Ngoc Hung, I'm currently developing a personal website and below is my development process!
 - ➡️ You can start from here: https://github.com/devops-project-app/devops-project-app-manifest
 - ➡️ Project Board: https://github.com/orgs/devops-project-app/projects/1
 
