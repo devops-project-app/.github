@@ -1,4 +1,4 @@
-## Hi there 👋
+## Tutorial 👋
 ### 🙋‍♀️ This organization will help you to have better understanding about DevOps
 - ➡️ You can start from here: https://github.com/devopsway/devops-project-manifest
 - ➡️ Project Board: https://github.com/orgs/devopsway/projects/1
