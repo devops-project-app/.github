@@ -1,17 +1,17 @@
 ## Hi there 👋
 ### 🙋‍♀️ This organization will help you to have better understanding about DevOps
-- ➡️ You can start from here: https://github.com/devopsway/devops-project-manifest
-- ➡️ Project Board: https://github.com/orgs/devopsway/projects/1
+- ➡️ You can start from here: https://github.com/devops-project-app/devops-project-app-manifest
+- ➡️ Project Board: https://github.com/orgs/devops-project-app/projects/1
 
 ### 🧱 Aplication repo
-- Frontend: https://github.com/devopsway/devops-project-application-cowsay-frontend
-- API: https://github.com/devopsway/devops-project-application-cowsay-api
+- Frontend: https://github.com/devops-project-app/devops-project-app-frontend
+- API: https://github.com/devops-project-app/devops-project-app-api
 ### 🏗️ Infrastructure
 - Cloud: **GCP**
-- Terraform code: https://github.com/devopsway/devops-project-infrastructure
+- Terraform code: https://github.com/devops-project-app/devops-project-app-infrastructure
 ### ⚙️ CICD
-- Jenkins install: https://github.com/devopsway/devops-project-jenkins-pack
-- Pipeline repo: https://github.com/devopsway/devops-project-cicd
+- Jenkins install: https://github.com/devops-project-app/devops-project-app-jenkins
+- Pipeline repo: https://github.com/devops-project-app/devops-project-app-cicd
 <!--
 
 **Here are some ideas to get you started:**
